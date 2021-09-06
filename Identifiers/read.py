@@ -1,0 +1,13 @@
+#read from console
+# name=input("enter your name")
+# print(name)
+# name=input("enter company name")
+# location =input("Enter location")
+# print(name)
+# print(location)
+name=input("enter your name")
+age=input("enter your age")
+qual=input("enter your qualification")
+print(name)
+print(age)
+print(qual)
