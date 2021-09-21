@@ -1,0 +1,51 @@
+.row{
+    width:60%;
+    height: 300px;
+    background-color:grey;
+    position:relative;
+    left:20%;
+    margin-top: 10px;
+
+
+}
+.col{
+    height:250px;
+    width:22%;
+    position:absolute;
+    top:30px;
+    margin-top: 10px;
+    
+
+}
+.fixed {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    left: 80%;
+    position: fixed;
+    top: 50%;
+   
+}
+.sticky{
+    width: 100px;
+    height: 100px;
+    background-color: rosybrown;
+    position: sticky;
+    top: 5%;
+}
+.col-1{
+    background-color: red;
+}
+.col-2{
+    background-color:green;
+    left:23%
+}
+.col-3{
+    background-color: blue;
+    left:46%
+}
+.col-4{
+    background-color: yellow;
+    left:69%;
+}
+
